@@ -9,4 +9,3 @@ Load your chosen file, the results of it will populate on the left hand of the e
 
 You can choose to ingest a site map if you don't trust the live feature, that would be valid. Otherwise you can save the contents to the chosen text file with the save button.
 
-If you need additional support, then this extension isn't your biggest problem
